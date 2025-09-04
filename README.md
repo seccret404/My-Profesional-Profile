@@ -26,91 +26,70 @@ Passionate about exploring new technologies and improving technical skills while
 ---
 
 ## ⚙️ Frameworks & Tools
-<p align="left">
-  <!-- Laravel -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50"/><br>
-    <span>Laravel</span>
-  </div>
-  
-  <!-- Express -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>
-    <span>Express</span>
-  </div>
-  
-  <!-- React -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
-    <span>React</span>
-  </div>
-  
-  <!-- Next.js -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>
-    <span>Next.js</span>
-  </div>
-  
-  <!-- Vue.js -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/><br>
-    <span>Vue.js</span>
-  </div>
-  
-  <!-- React Native -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
-    <span>React Native</span>
-  </div>
-  
-  <!-- Tailwind CSS -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>
-    <span>Tailwind</span>
-  </div>
-  
-  <!-- Go Fiber -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/><br>
-    <span>Fiber</span>
-  </div>
-  
-  <!-- Docker -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>
-    <span>Docker</span>
-  </div>
-  
-  <!-- Redis -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br>
-    <span>Redis</span>
-  </div>
-  
-  <!-- Nginx -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/><br>
-    <span>Nginx</span>
-  </div>
-  
-  <!-- MySQL -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
-    <span>MySQL</span>
-  </div>
-  
-  <!-- PostgreSQL -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>
-    <span>PostgreSQL</span>
-  </div>
-  
-  <!-- GitHub Actions -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50"/><br>
-    <span>GitHub Actions</span>
-  </div>
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50"/><br>
+      <sub><b>Laravel</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>
+      <sub><b>Express</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/><br>
+      <sub><b>Vue.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
+      <sub><b>React Native</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>
+      <sub><b>Tailwind</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/><br>
+      <sub><b>Fiber</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/><br>
+      <sub><b>Nginx</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50"/><br>
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
