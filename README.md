@@ -28,7 +28,7 @@ Passionate about exploring new technologies and improving technical skills while
 ## ⚙️ Frameworks & Tools
 <p align="left">
   <!-- Laravel -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="50"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50"/>
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
   <!-- React -->
@@ -41,7 +41,7 @@ Passionate about exploring new technologies and improving technical skills while
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
   <!-- Tailwind CSS -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-  <!-- Go Fiber (custom: Go logo + text Fiber) -->
+  <!-- Go Fiber -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/> <b>Fiber</b>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
@@ -56,6 +56,7 @@ Passionate about exploring new technologies and improving technical skills while
   <!-- GitHub Actions -->
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50"/>
 </p>
+
 
 ---
 
