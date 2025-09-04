@@ -28,35 +28,89 @@ Passionate about exploring new technologies and improving technical skills while
 ## ⚙️ Frameworks & Tools
 <p align="left">
   <!-- Laravel -->
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50"/><br>
+    <span>Laravel</span>
+  </div>
+  
   <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/><br>
+    <span>Express</span>
+  </div>
+  
   <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
+    <span>React</span>
+  </div>
+  
   <!-- Next.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>
+    <span>Next.js</span>
+  </div>
+  
   <!-- Vue.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50"/><br>
+    <span>Vue.js</span>
+  </div>
+  
   <!-- React Native -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
+    <span>React Native</span>
+  </div>
+  
   <!-- Tailwind CSS -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/><br>
+    <span>Tailwind</span>
+  </div>
+  
   <!-- Go Fiber -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/> <b>Fiber</b>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/><br>
+    <span>Fiber</span>
+  </div>
+  
   <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br>
+    <span>Docker</span>
+  </div>
+  
   <!-- Redis -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br>
+    <span>Redis</span>
+  </div>
+  
   <!-- Nginx -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/><br>
+    <span>Nginx</span>
+  </div>
+  
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br>
+    <span>MySQL</span>
+  </div>
+  
   <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>
+    <span>PostgreSQL</span>
+  </div>
+  
   <!-- GitHub Actions -->
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50"/>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50"/><br>
+    <span>GitHub Actions</span>
+  </div>
 </p>
-
 
 ---
 
